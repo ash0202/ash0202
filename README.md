@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Ashish Senapati
+- 👀 I’m interested in Spring Boot...
+- 💞️ I’m looking to collaborate on backend projects...
+- 📫 How to reach me ...
+
+<!---
+ash0202/ash0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
